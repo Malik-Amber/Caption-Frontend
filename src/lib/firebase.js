@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA7OTH5QjZacvAGncZDREWLYEL40cV4xgU",
-  authDomain: "caption-generator-10a8f.firebaseapp.com",
-  projectId: "caption-generator-10a8f",
-  storageBucket: "caption-generator-10a8f.firebasestorage.app",
-  messagingSenderId: "724737293575",
-  appId: "1:724737293575:web:d8ef4bef10f189ea5b19a2"
+  apiKey: "AIzaSyCTmwbD5ehNLGsS7IYRbGbEmnAW2DEENSM",
+  authDomain: "caption-generated.firebaseapp.com",
+  projectId: "caption-generated",
+  storageBucket: "caption-generated.firebasestorage.app",
+  messagingSenderId: "156681646235",
+  appId: "1:156681646235:web:6a62584f0a2632af4d963e"
 };
 
 const app = initializeApp(firebaseConfig);
